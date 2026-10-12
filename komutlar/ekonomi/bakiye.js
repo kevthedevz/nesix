@@ -7,7 +7,7 @@ module.exports = {
 
   $color[$id[ana]]
   $author[$username[$get[u]] | Bakiye;$useravatar[$get[u]]]
-
+a
   $addfield[Nakit:;$getglobalvar[sb]$separatenumber[$getuservar[nakit;$get[u]];.]]
 
   $addfield[Banka:;$getglobalvar[sb]$separatenumber[$getuservar[banka;$get[u]];.]]
