@@ -16,6 +16,7 @@ const client = new ForgeClient({
 
 db.variables({
   önek: "!",
+  sb: "₺",
   nakit: 0,
   banka: 0
 })
