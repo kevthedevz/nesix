@@ -17,8 +17,7 @@ $description[
 $codeblock[Total Nakit: $separatenumber[$get[total];.];md]
 
 $userleaderboard[nakit;desc;10;1;$id[n];value;pos;
-$return[**$env[pos].** <@$env[value;id]> — \`$env[value;value]\`]
-]
+$return[**$env[pos].** <@$env[value;id]> — \`$env[value;value]\`]]
 ]
 `
 }
