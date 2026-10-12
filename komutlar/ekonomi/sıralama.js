@@ -15,7 +15,6 @@ $description[
 
 **Global Bilgi**
 $codeblock[Total Nakit: $separatenumber[$get[total];.];md]
-
 ## 🏆 TOP 10
 $userleaderboard[nakit;desc;10;1;$id[n];value;pos;
 $return[**$env[pos].** <@$env[value;id]> — \`$env[value;value]\`]]
