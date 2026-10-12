@@ -9,7 +9,7 @@ module.exports = {
   $author[$username[$get[u]] | Bakiye;$useravatar[$get[u]]]
 
   $addfield[Nakit:;$getglobalvar[sb]$separatenumber[$getuservar[nakit;$get[u]];.]]
-
+asdassd
   $addfield[Banka:;$getglobalvar[sb]$separatenumber[$getuservar[banka;$get[u]];.]]
 
   $addfield[Toplam:;$getglobalvar[sb]$separatenumber[$sum[$getuservar[nakit;$get[u]];$getuservar[banka;$get[u]]];.]]
