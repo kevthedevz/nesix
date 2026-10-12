@@ -5,7 +5,7 @@ const { ForgeDB } = require("@tryforge/forge.db")
 const db = new ForgeDB({
   events: ["connect"],
   type: "better-sqlite3",
-  database: "/app/data/forge.db"   // ← Bu satırı ekledik
+  database: "/app/data/forge.db"
 })
 
 const client = new ForgeClient({
