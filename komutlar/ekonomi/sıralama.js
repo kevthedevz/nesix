@@ -14,7 +14,7 @@ $description[
 İşte size ekonomi hakkında biraz bilgi!
 
 **Global Bilgi**
-$codeblock[Total Nakit: $seperatenumber[$get[total];.];md]
+$codeblock[Total Nakit: $separatenumber[$get[total];.];md]
 
 $userleaderboard[nakit;desc;10;1;$id[n];value;pos;
 $return[**$env[pos].** <@$env[value;id]> — \`$env[value;value]\`]
